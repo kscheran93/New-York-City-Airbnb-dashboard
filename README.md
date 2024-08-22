@@ -2,9 +2,9 @@
 
 ## Snapshot of Dashboard (Power BI Service)
 
-![Dashboard_Snapshot](Your_Snapshot_Link_Here)
+![Dashboard_Snapshot](https://github.com/kscheran93/New-York-City-Airbnb-dashboard/blob/main/Airbnb%20Dashboard.png)
 
-### Dashboard Link: [View Dashboard](https://github.com/kscheran93/New-York-City-Airbnb-dashboard/blob/main/Airbnb%20Dashboard.png)
+### Dashboard Link: [View Dashboard](https://app.powerbi.com/groups/me/reports/c8fc01c7-5b1e-4a45-a016-336d43c226e7/576b80419c6e5af2ba4a?experience=power-bi)
 
 ## Problem Statement
 
